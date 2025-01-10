@@ -1,0 +1,15 @@
+# Dossiers et fichiers générés automatiquement
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+
+# Fichiers de logs
+*.log
+
+# Fichiers JSON temporaires ou sensibles 
+alerts.json
+
+
